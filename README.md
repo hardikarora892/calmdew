@@ -9,7 +9,7 @@
 
   CalmDew is a fully responsive eCommerce website designed to deliver a soothing and minimalistic shopping experience. <br />It’s responsive for all devices and built using HTML, CSS, and JavaScript.
 
-  <a href="https://yourusername.github.io/calmdew/"><strong>➥ Live Demo</strong></a>
+  <a href="https://hardikarora892.github.io/calmdew/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
